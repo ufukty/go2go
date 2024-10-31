@@ -52,7 +52,7 @@ I am publishing this after not touching to it for over one year of time. So I do
 
 With quick search, I found [lu4p/astextract](https://github.com/lu4p/astextract). It contains a [file](https://github.com/lu4p/astextract/blob/master/print.go) written in similar logic to go2go with usage of `reflect`.
 
-Although it refers to the built-in `go/ast` package's [https://golang.org/src/go/ast/print.go](printer).
+Although it refers to the built-in `go/ast` package's [printer](https://golang.org/src/go/ast/print.go).
 
 ## License
 
