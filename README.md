@@ -50,7 +50,7 @@ Usage of go2go:
 
 I am publishing this after not touching to it for over one year of time. So I don't remember.
 
-With quick search, I found [lu4p/astextract](https://github.com/lu4p/astextract). It contains a [https://github.com/lu4p/astextract/blob/master/print.go](file) written in similar logic to go2go with usage of `reflect`.
+With quick search, I found [lu4p/astextract](https://github.com/lu4p/astextract). It contains a [file](https://github.com/lu4p/astextract/blob/master/print.go) written in similar logic to go2go with usage of `reflect`.
 
 Although it refers to the built-in `go/ast` package's [https://golang.org/src/go/ast/print.go](printer).
 
